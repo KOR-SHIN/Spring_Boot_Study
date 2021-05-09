@@ -1,0 +1,2 @@
+kr/or/h4tech/springboot/web/HelloControllerTest.java
+ kr.or.h4tech.springboot.web.HelloControllerTest
