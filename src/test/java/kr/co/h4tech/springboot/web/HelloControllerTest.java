@@ -1,6 +1,5 @@
 package kr.co.h4tech.springboot.web;
 
-import kr.co.h4tech.springboot.web.HelloController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
