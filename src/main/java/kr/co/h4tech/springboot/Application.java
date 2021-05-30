@@ -10,8 +10,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
  *
  * EnableJpaAuditing
  *  - JPA Auditing 활성화
+ *  - helloController 테스트에서 사용하기 위해 SpringBootApplication과 분리
+ *  - jpaConfig파일 별도생성
  */
-@EnableJpaAuditing
+//@EnableJpaAuditing
 @SpringBootApplication
 public class Application {
     public static void main(String[] args) {
