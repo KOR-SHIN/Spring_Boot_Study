@@ -20,5 +20,4 @@ public class Application {
         // Embedded WAS를 실행함
         SpringApplication.run(Application.class, args);
     }
-
 }
