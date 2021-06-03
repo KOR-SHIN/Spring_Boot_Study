@@ -40,7 +40,7 @@ deploy:
   - provider: codedeploy
     access_key_id: $AWS_ACCESS_KEY
     secret_access_key: $AWS_SECRET_KEY
-    bucket: freelec-springboot-build-bucket-skj
+    bucket: freelec-springboot-build-bucket-skj # S3 bucket
     key: freelec-springboot2-webservice.zip
     bundle_type: zip # 압축 확장자
     application: freelec-springboot2-webservice # 웹 콘솔에서 등록한 codeDeploy Application
