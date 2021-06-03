@@ -15,6 +15,9 @@ cache:
     - '$HOME/.m2/repository'
     - '$HOME/.gradle'
 
+before_install:
+  - chmod +x gradlew
+
 # master 브랜치에 PUSH되었을 때 수행하는 명령
 script: "./gradlew clean build"
 
