@@ -19,7 +19,7 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
 group 'org.example'
-version '1.0.1-SNAPSHOT'
+version '1.0.1-SNAPSHOT' + new Date().format("yyyyMMddHHmmss") // 배포할 때 마다 version이 자동으로 변경되도록
 sourceCompatibility= 1.8
 
 repositories {
