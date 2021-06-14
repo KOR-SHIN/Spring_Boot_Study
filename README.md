@@ -14,3 +14,5 @@
 <a href="https://velog.io/@ovan/JPA-Auditing%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%EC%8B%9C%EA%B0%84%EC%88%98%EC%A0%95%EC%8B%9C%EA%B0%84-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0" target="_blank">JPA Auditing으로 생성시간/수정시간 자동화 하기</a>
 
 <a href="https://velog.io/@ovan/Domain-Layer%EC%97%90%EC%84%9C-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0" target="_blank">Domain Layer에서 비즈니스 로직 처리하기</a>
+
+<a href="https://velog.io/@ovan/Spring-Security%EC%99%80-OAuth2-%EC%86%8C%EA%B0%9C" target="_blank">Spring Security와 OAuth2 소개</a>
