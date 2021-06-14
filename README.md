@@ -1,5 +1,5 @@
 ## 🔥Spring_Boot_Study
-<a href="http://www.yes24.com/Product/Goods/83849117" target="_blank">스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱 저)</a>를 공부하고 정리하는 저장소입니다.<br/>
+<a href="http://www.yes24.com/Product/Goods/83849117" target="_blank">스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱 저)</a>를 공부하고 개인적으로 필요한 내용만 간단히 정리하는 저장소입니다.<br/>
 공부한 내용은 <a href="https://velog.io/@ovan/series/SpringBoot" target="_blank">개인블로그에</a> Spring Boot시리즈로 포스팅 중입니다.
 
 ## Post
